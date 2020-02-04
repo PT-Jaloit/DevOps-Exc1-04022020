@@ -4,7 +4,7 @@
 1. Luettelo
 2. Luettelo 2
 
-_Italic_
+_Italic text_
 
 __Bold__
 
